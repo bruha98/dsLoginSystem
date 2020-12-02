@@ -1,0 +1,27 @@
+{
+  "name": "italicious",
+  "version": "1.0.0",
+  "description": "Data Structure Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/user109436/dsLoginSystem.git"
+  },
+  "keywords": [
+    "Basic",
+    "Login",
+    "System"
+  ],
+  "author": "Melquizedek Felix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/user109436/dsLoginSystem/issues"
+  },
+  "homepage": "https://github.com/user109436/dsLoginSystem#readme",
+  "dependencies": {
+    "mdbootstrap": "^4.19.2"
+  }
+}
